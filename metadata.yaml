@@ -1,5 +1,8 @@
 _repo: Veillees-d-Auvergne_74453
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74453-h/images/cover.jpg
 creator:
   author:
     agent_name: Ajalbert, Jean
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57329
     wikipedia: https://fr.wikipedia.org/wiki/Jean_Ajalbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74453#Veillees-d-Auvergne
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
